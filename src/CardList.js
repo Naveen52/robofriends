@@ -7,6 +7,7 @@ const CardList = ({robots}) => {
     });
     return(
         <div>
+            <h1>ROBOFRIENDS</h1>
             {cardComponent}
         </div>
     )
