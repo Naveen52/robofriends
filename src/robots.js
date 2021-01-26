@@ -8,38 +8,38 @@ export const robots = [
 },
 {
     id : 2,
-    name : "John dae",
-    username : "john",
-    email : "johndae@live.com"
+    name : "Smith jones",
+    username : "Smith",
+    email : "smith@orkut.com"
 },
 {
     id : 3,
-    name : "John dae",
-    username : "john",
-    email : "johndae@live.com"
+    name : "Stuart",
+    username : "Little",
+    email : "little@live.com"
 },
 {
     id : 4,
-    name : "John dae",
-    username : "john",
-    email : "johndae@live.com"
+    name : "Mary ",
+    username : "Mary",
+    email : "Mary@gmail.com"
 },
 {
     id : 5,
-    name : "John dae",
-    username : "john",
-    email : "johndae@live.com"
+    name : "Shawn Mendes",
+    username : "shawn",
+    email : "shawn@yahoo.com"
 },
 {
     id : 6,
-    name : "John dae",
-    username : "john",
-    email : "johndae@live.com"
+    name : "Lucy",
+    username : "lucy",
+    email : "lucy@live.com"
 },
 {
     id : 7,
-    name : "John dae",
-    username : "john",
-    email : "johndae@live.com"
+    name : "Diana ",
+    username : "diana",
+    email : "diana123@live.com"
 }
 ]
