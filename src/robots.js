@@ -8,9 +8,9 @@ export const robots = [
 },
 {
     id : 2,
-    name : "Smith jones",
-    username : "Smith",
-    email : "smith@orkut.com"
+    name : "Ajay pratap",
+    username : "Ajay",
+    email : "Ajay@orkut.com"
 },
 {
     id : 3,
